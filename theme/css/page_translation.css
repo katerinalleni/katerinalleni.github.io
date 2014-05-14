@@ -1,0 +1,16 @@
+/* Page title */
+/* Navigation */
+/* Sidebar colors */
+/* Footer colors */
+body > header {
+  background: url('../images/noise.png?1395525734') top left #c54d3a;
+}
+body > header h2 {
+  color: #63261d;
+}
+
+h1.entry-title {
+  border-left: 8px solid;
+  border-left-color: #d17161;
+  padding-left: 8px;
+}

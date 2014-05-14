@@ -1,0 +1,9 @@
+/* Page title */
+/* Navigation */
+/* Sidebar colors */
+/* Footer colors */
+h1.entry-title {
+  border-left: 8px solid;
+  border-left-color: #e7a055;
+  padding-left: 8px;
+}
